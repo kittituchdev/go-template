@@ -1,7 +1,6 @@
 # Golang Project Template
 
 ![Go Version](https://img.shields.io/badge/Go-1.x-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 📌 Overview
 This is a Golang project template designed for building scalable and maintainable applications. It includes a structured folder layout, dependency management, and best practices for Go development.

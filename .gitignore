@@ -1,0 +1,33 @@
+# Binaries and build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+build/
+bin/
+
+# Ignore Go vendor directory (if you do not commit vendor)
+vendor/
+
+# Editor/IDE config & backups
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment/config files (often contain secrets)
+.env
+
+# Coverage files
+coverage.out
+coverage.html
